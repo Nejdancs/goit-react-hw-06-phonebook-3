@@ -1,1 +1,1 @@
-My project
+vanila redux
